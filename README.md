@@ -26,3 +26,14 @@ Il repository contiene una dashboard Excel con dati simulati e indicatori di per
 
 ## Autore
 Giovanna Mezzapelle
+## Automazione con Power Automate
+
+Workflow automatico sviluppato con Microsoft Power Automate.
+
+- Lettura dati da Excel
+- Elaborazione automatica
+- Invio email tramite Outlook
+- Esecuzione pianificata
+
+Workflow:
+Recurrence → Excel Online → Compose → Outlook Email
